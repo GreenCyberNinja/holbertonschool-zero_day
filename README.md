@@ -1,1 +1,8 @@
-#holbertonschool-zero-day repository
+# holbertonschool-zero-day
+This repository contains projects:
+* 0x00. Vagrant
+* 0x01. Emacs
+* 0x02. vi
+* 0x03. Git
+## About This Project
+this project is my first programming project I ever worked on. Before attending Holberton, the only programming I've every done was with lego mindstorm robotics. This is my very first project and truly the start of my programming knowledge.
