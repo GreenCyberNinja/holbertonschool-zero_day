@@ -9,5 +9,6 @@ this project is my first programming project I ever worked on. Before attending 
 
 ![helloworld](https://user-images.githubusercontent.com/60637326/139727774-eb7365d9-7154-4ea6-99fb-661109b81b5f.png)
 
+### Author
 David Duval
 [LinkedIN](https://www.linkedin.com/in/david-duval-a521b81a9/)
